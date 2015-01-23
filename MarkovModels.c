@@ -1,6 +1,5 @@
 /*
  * Title: Viterbi + Forward algorithms
- * Author: José González
 */
 
 #include "MarkovModels.h"
